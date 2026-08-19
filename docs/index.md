@@ -1,6 +1,5 @@
 # Dan's CPD
 
-- [Study](study/index.md)
-- [Reasearch](research/index.md)
-- [Content Creation](content-creation/index.md)
-- [Mentoring](mentoring/index.md)
+- [Structured Learning](structured-learning/index.md)
+- [Reflective Learning](research/index.md)
+- [Professional Contribution](professional-contribution/index.md)

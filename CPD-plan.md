@@ -30,6 +30,15 @@ Relying solely on labs is risky; auditors look for a **balance** of activities. 
 3.  **Backdate valid entries** for the last year if you have done relevant work, ensuring you add the **Reflection** column to each.
 4.  **Commit to 10–20 hours per year** of high-quality, documented learning (though more is typical for security roles).
 
+
+### Other useful categories
+
+- **Events** – conferences, webinars, meetups, CTFs attended  
+- **Work / Projects** – real job tasks, engagements, or internal projects that demonstrate competence  
+- **Speaking / Presentations** – talks, demos, or internal knowledge shares  
+- **Community / Volunteering** – open-source contributions, Discord/forum help, organising events  
+- **Ethics / Professional Conduct** – reading codes of ethics, reflective practice, or related activities  
+
 ---
 
 Activity Information
