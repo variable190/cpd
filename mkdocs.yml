@@ -1,4 +1,3 @@
-```yaml
 site_name: Dan Hayes CPD
 nav:
   - Home: index.md
@@ -11,9 +10,6 @@ nav:
   - Professional Contribution:
     - Overview: professional-contribution/index.md
     - 2026-08-17 - Mentoring a Junior Colleague: professional-contribution/2026-08-17-mentoring-a-junior-colleague.md
-```
-
-Note: I corrected the HTB date in the nav label to `2026-08-18` for consistency (your filename still has `2026-18-08`).
 
 theme:
   name: material
