@@ -9,8 +9,10 @@
       
       
       
-        <link rel="prev" href="../2026-08-18-whitebox-testing-process/">
+        <link rel="prev" href="../">
       
+      
+        <link rel="next" href="../2026-08-18-whitebox-testing-process/">
       
       
         
@@ -21,7 +23,7 @@
     
     
       
-        <title>2026-08-17 - Mentoring a Junior Colleague - Dan Hayes CPD</title>
+        <title>2026-08-19 Create Node/Express Code Review Overview Content - Dan Hayes CPD</title>
       
     
     
@@ -72,7 +74,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#mentoring-a-junior-colleague" class="md-skip">
+        <a href="#create-nodeexpress-code-review-overview-content" class="md-skip">
           Skip to content
         </a>
       
@@ -108,7 +110,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              2026-08-17 - Mentoring a Junior Colleague
+              2026-08-19 Create Node/Express Code Review Overview Content
             
           </span>
         </div>
@@ -551,10 +553,19 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../2026-08-19-node-express-code-review/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -570,6 +581,7 @@
   
 
       </a>
+      
     </li>
   
 
@@ -607,19 +619,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../2026-08-17-mentoring-a-junior-colleague/" class="md-nav__link">
         
   
   
@@ -635,7 +638,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -683,7 +685,7 @@
 
 
 
-<h1 id="mentoring-a-junior-colleague">Mentoring a Junior Colleague</h1>
+<h1 id="create-nodeexpress-code-review-overview-content">Create Node/Express Code Review Overview Content</h1>
 <table>
 <thead>
 <tr>
@@ -694,31 +696,31 @@
 <tbody>
 <tr>
 <td style="text-align: left;"><strong>Date</strong></td>
-<td style="text-align: left;">17 Aug 2026</td>
+<td style="text-align: left;">19 Aug 2026</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Activity</strong></td>
-<td style="text-align: left;">Mentoring</td>
+<td style="text-align: left;">Content creation</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Duration</strong></td>
-<td style="text-align: left;">30 mins</td>
+<td style="text-align: left;">4 hours</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Objective</strong></td>
-<td style="text-align: left;">Provide constructive career advice</td>
+<td style="text-align: left;">Create a practical Node/Express code review guide and deepen my understanding of how Express handles requests</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Session Focus</strong></td>
-<td style="text-align: left;">After learning I would be leaving my R2 role, an R1 colleague reached out for advice. They had been asked if they were interested in being my replacement but gave a non-committal answer. They were waiting on the outcome of another slightly more advanced R1 role and also had interview fatigue after recently losing out for another open R2 position. I advised them to call our manager back, express strong interest in the R2 role, and explain that their hesitation was due to not wanting to turn down the better R1 role if offered. I explained that honesty is the best policy. It is fine to say the R2 role is their priority, while accepting the R1 role in the meantime so they do not risk ending up with neither.</td>
+<td style="text-align: left;">Wrote a step-by-step whitebox code review page for Node/Express covering entry points, global middleware, route mounting, endpoint tracing, and dependency checks. Worked through how <code>express.json()</code> parses request bodies, how <code>cors()</code> sets response headers, the difference between path prefixes and endpoints, how <code>require</code> and destructuring imports work, and the full request flow from server to controller.</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Reflection</strong></td>
-<td style="text-align: left;">I felt I may have been too forceful and next time will be less concrete "do this" and more "this is an option". However, the colleague ended the call by thanking me for revitalising their enthusiasm and said they would take my advice.</td>
+<td style="text-align: left;">Building the page forced me to properly understand the request lifecycle instead of just recognising patterns. I can now clearly explain where client input enters (<code>req.body</code>, <code>query</code>, <code>params</code>, <code>headers</code>), how routes are registered versus how they are executed, and where dangerous sinks are likely to appear. This will improve both my code review quality and my ability to explain findings.</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Evidence</strong></td>
-<td style="text-align: left;">None, informal ad-hoc teams call</td>
+<td style="text-align: left;">https://variable190.github.io/dans-cyber-stuff/whitebox-testing/node-express-code-review/</td>
 </tr>
 </tbody>
 </table>
