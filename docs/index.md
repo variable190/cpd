@@ -1,4 +1,4 @@
-# Dan's CPD
+# Dan Hayes CPD
 
 - [Structured Learning](structured-learning/index.md)
 - [Reflective Learning](reflective-learning/index.md)

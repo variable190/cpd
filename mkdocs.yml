@@ -1,6 +1,19 @@
-site_name: Dans CPD
+```yaml
+site_name: Dan Hayes CPD
 nav:
   - Home: index.md
+  - Structured Learning:
+    - Overview: structured-learning/index.md
+    - 2026-08-18 - HTB Academy Senior Web Penetration Tester path: structured-learning/2026-08-18-senior-web-pentester-path.md
+  - Reflective Learning:
+    - Overview: reflective-learning/index.md
+    - 2026-08-19 - Create CPD Log: reflective-learning/2026-08-19-create-cpd-log.md
+  - Professional Contribution:
+    - Overview: professional-contribution/index.md
+    - 2026-08-17 - Mentoring a Junior Colleague: professional-contribution/2026-08-17-mentoring-a-junior-colleague.md
+```
+
+Note: I corrected the HTB date in the nav label to `2026-08-18` for consistency (your filename still has `2026-18-08`).
 
 theme:
   name: material
