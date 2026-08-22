@@ -3,6 +3,7 @@ nav:
   - Home: index.md
   - Structured Learning:
     - Overview: structured-learning/index.md
+    - 2026-21-08 - HTB Academy Pentest in a Nutshell Module: structured-learning/2026-08-21-pentest-in-a-nutshell-module.md
     - 2026-08-18 - HTB Academy Senior Web Penetration Tester path: structured-learning/2026-08-18-senior-web-pentester-path.md
   - Reflective Learning:
     - Overview: reflective-learning/index.md
