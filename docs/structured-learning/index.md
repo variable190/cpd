@@ -1,5 +1,6 @@
 # Structured Learning
 
+- [2026-09-28 - HTB Academy Vulnerability Assessment Module](2026-09-28-vuln-assess.md)
 - [2026-09-18 - HTB Academy Using the Metasploit Framework Module](2026-09-18-metasploit.md)
 - [2026-09-14 - HTB Academy Footprinting Module](2026-09-14-footprinting.md)
 - [2026-09-12 - HTB Academy Certified Web Exploitation Expert Exam](2026-09-12-cwee.md)
